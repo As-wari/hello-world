@@ -1,2 +1,3 @@
 # hello-world
-Practice project
+
+Fwah? This is a practice projecto! O:
